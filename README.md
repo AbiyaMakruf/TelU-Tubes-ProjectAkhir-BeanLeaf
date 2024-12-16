@@ -9,6 +9,8 @@ Tugas Akhir MK S2 Kecerdasan Buatan Lanjut
 - git clone [this repository]
 - pip install -r requirements.txt
 
+# Setup github
+
 # Daftar Tautan
 - https://tel-u.ac.id/templatepaper
 - https://www.kaggle.com/datasets/marquis03/bean-leaf-lesions-classification 
