@@ -166,3 +166,4 @@ cython_debug/
 /datasets
 dataset.zip
 *.h5
+*.120tore
