@@ -10,8 +10,14 @@ Tugas Akhir MK S2 Kecerdasan Buatan Lanjut
 - pip install -r requirements.txt
 
 # Setup github
+git config --global user.email ""
+git config --global user.name ""
+ssh -T git@github.com
 
 # Daftar Tautan
 - https://tel-u.ac.id/templatepaper
-- https://www.kaggle.com/datasets/marquis03/bean-leaf-lesions-classification 
-- 
+- https://www.kaggle.com/datasets/marquis03/bean-leaf-lesions-classification
+
+# ToDo
+- kFold Cross Validation
+- Modifikasi Arsitektur EfficientNetV2
