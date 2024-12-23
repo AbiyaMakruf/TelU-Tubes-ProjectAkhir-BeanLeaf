@@ -20,4 +20,5 @@ ssh -T git@github.com
 
 # ToDo
 - kFold Cross Validation
-- Modifikasi Arsitektur EfficientNetV2
+- Bandingin akurasi
+- Bandingin hasil tf lite
