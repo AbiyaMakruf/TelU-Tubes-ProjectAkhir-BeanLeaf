@@ -167,3 +167,4 @@ cython_debug/
 dataset.zip
 *.h5
 *.120tore
+*.keras
