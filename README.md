@@ -18,6 +18,7 @@ ssh -T git@github.com
 - https://tel-u.ac.id/templatepaper
 - https://www.kaggle.com/datasets/marquis03/bean-leaf-lesions-classification
 - https://www.figma.com/design/wEbmJgXglaldizYTZvwcVd/ProjectAI?m=auto&t=BKVKvfXPTWlFHMbJ-1
+- https://drive.google.com/drive/folders/1diQ7FSwj_1QQJ_JdSTpvq51KutL-ikRu?usp=sharing
 
 # ToDo
 - kFold Cross Validation
