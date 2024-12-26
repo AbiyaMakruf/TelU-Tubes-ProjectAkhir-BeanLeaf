@@ -17,6 +17,7 @@ ssh -T git@github.com
 # Daftar Tautan
 - https://tel-u.ac.id/templatepaper
 - https://www.kaggle.com/datasets/marquis03/bean-leaf-lesions-classification
+- https://www.figma.com/design/wEbmJgXglaldizYTZvwcVd/ProjectAI?m=auto&t=BKVKvfXPTWlFHMbJ-1
 
 # ToDo
 - kFold Cross Validation
