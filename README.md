@@ -1,4 +1,4 @@
-# TelU-Tubes-TugasAkhir-KlasifikasiPenyakitTanamanApel-
+# TelU-Tubes-ProjectAkhir-BeanLeaf
 Tugas Akhir MK S2 Kecerdasan Buatan Lanjut
 
 # Output Paper
