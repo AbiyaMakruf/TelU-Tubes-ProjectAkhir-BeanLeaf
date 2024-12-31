@@ -16,9 +16,9 @@ Tugas Akhir MK S2 Kecerdasan Buatan Lanjut
 - pip install -r requirements.txt
 
 # Setup github
-git config --global user.email "example@gmail.com"
-git config --global user.name "example"
-ssh -T git@github.com
+- git config --global user.email "example@gmail.com"
+- git config --global user.name "example"
+- ssh -T git@github.com
 
 # Daftar Tautan
 - [Paper](https://telkomuniversityofficial-my.sharepoint.com/:w:/g/personal/abiyamf_student_telkomuniversity_ac_id/EbFgVqXWhjlGo6da1umRhYQBaI1pSXzSuLAqGzlQ_tg-EA?e=HLtTds).
