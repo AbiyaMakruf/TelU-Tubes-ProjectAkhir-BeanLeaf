@@ -1,9 +1,11 @@
 # TelU-Tubes-TugasAkhir-KlasifikasiPenyakitTanamanApel-
 Tugas Akhir MK S2 Kecerdasan Buatan Lanjut
 
-# Paper yang dihasilkan
-
-# Slide presentasi
+# Output Paper
+| Name                    | Link          |
+| ----------------------  |:-------------:|
+| Paper                   | right foo     |
+| Slide Presentation      | right bar     |
 
 # Setup anaconda
 - conda create --name projectAI python=3.12
