@@ -77,8 +77,8 @@ Kami menerima kontribusi! Untuk berkontribusi:
 ## Kontributor
 Jika Anda memiliki pertanyaan, silakan hubungi:
 - Muhammad Abiya Makruf, **Email**: [abiyamf@student.telkomuniversity.ac.id](mailto:abiyamf@student.telkomuniversity.ac.id)
-- Muhammad Abiya Makruf, **Email**: [abiyamf@student.telkomuniversity.ac.id](mailto:abiyamf@student.telkomuniversity.ac.id)
-- Muhammad Abiya Makruf, **Email**: [abiyamf@student.telkomuniversity.ac.id](mailto:abiyamf@student.telkomuniversity.ac.id)
+- Falah Asyraf Darmawan Putra, **Email**: [falaaah@student.telkomuniversity.ac.id](mailto:falaaah@student.telkomuniversity.ac.id)
+- Akif Rachmat Hidayah, **Email**: [akifrh@student.telkomuniversity.ac.id](mailto:akifrh@student.telkomuniversity.ac.id)
 
 ## Daftar Tautan
 - [Paper](https://telkomuniversityofficial-my.sharepoint.com/:w:/g/personal/abiyamf_student_telkomuniversity_ac_id/EbFgVqXWhjlGo6da1umRhYQBaI1pSXzSuLAqGzlQ_tg-EA?e=HLtTds).
