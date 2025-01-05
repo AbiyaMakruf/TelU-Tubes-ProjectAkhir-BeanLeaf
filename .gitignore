@@ -170,3 +170,4 @@ dataset.zip
 *.keras
 *.tflite
 =2.17.0
+/datasets_kfold
