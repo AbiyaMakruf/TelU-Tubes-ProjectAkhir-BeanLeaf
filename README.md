@@ -1,5 +1,7 @@
 # TelU-Tubes-ProjectAkhir-BeanLeaf
 
+![poster](README/poster.png)
+
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk mengklasifikasikan penyakit pada daun kacang dengan menggunakan arsitektur **Modified EfficientNetV2** yang dioptimalkan untuk perangkat terbatas sumber daya menggunakan TensorFlow Lite. Penyakit yang diklasifikasikan meliputi:
 - **Healthy** (Daun Sehat)
